@@ -21,3 +21,6 @@ To get a custom domain you need to buy one for DNS requirements or something.
 If you subscribed to this repository then you should receive emails about this!
 The email that will send you news: fetling@notifications.orsomething.noreply.github.com
 (I'm pretty sure that's the email for news)
+
+
+If you need more help. Contact me on Discord: fetling
