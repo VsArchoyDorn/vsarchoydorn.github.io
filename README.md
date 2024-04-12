@@ -15,7 +15,7 @@ You also have to select GitHub Desktop since this is a requirement for this tuto
 "What git client are you using?": GitHub Desktop
 And follow the instructions!
 
-My website was inspired by astrickz (https://astrickz.info/)
+My website was inspired by astricz (https://astricz.info/)
 To get a custom domain you need to buy one for DNS requirements or something.
 
 If you subscribed to this repository then you should receive emails about this!
